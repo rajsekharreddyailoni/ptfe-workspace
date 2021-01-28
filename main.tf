@@ -2,6 +2,7 @@ provider "azurerm" {
   features {}
 }
 
+
 variable "prefix" {}
 variable "environment" {}
 variable "location" {}

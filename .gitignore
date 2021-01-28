@@ -1,0 +1,7 @@
+# Local terraform directories
+docker/*
+terraform-getting-started/*
+terraform-getting-started.zip
+**/.terraform/**
+*/**/.tfvars
+*.tfstate
